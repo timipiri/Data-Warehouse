@@ -1,5 +1,5 @@
 # Data-Warehouse
-In this project, we we create a data warehouse for a Waste management company in Brazil. The company collects and recycles solid waste across major cities in the country of Brazil. The company operates hundreds of trucks of different types to collect and transport solid waste.
+In this project, we create a data warehouse for a Waste management company in Brazil. The company collects and recycles solid waste across major cities in the country of Brazil. The company operates hundreds of trucks of different types to collect and transport solid waste.
 Among other things, the data warehouse will enable the company create reports like:
 Total waste collected per year per city.
 Total waste collected per month per city.
